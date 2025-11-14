@@ -1,3 +1,4 @@
-## PokéAnálise: o que os números contam sobre os 151 originais
-# É perigoso ir sozinho. Leve dados.
-# A jornada continua...
+# PokéAnálise: o que os números contam sobre os 151 originais
+---
+## É perigoso ir sozinho. Leve dados.
+## A jornada continua...
