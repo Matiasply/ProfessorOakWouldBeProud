@@ -1,4 +1,16 @@
 # PokéAnálise: o que os números contam sobre os 151 originais
----
+Bem-vindo ao repositório "PokéAnálise", onde exploramos os dados dos 151 pokémons originais da 1ª geração para descobrir insights interessantes sobre suas características, tipos e habilidades. Utilizando técnicas de análise de dados e visualização, buscamos responder perguntas intrigantes como: Qual é o pokémon mais forte? Quais são os tipos mais comuns? E muito mais!
+
 ## É perigoso ir sozinho. Leve dados.
+
+## 🎨 Créditos das Imagens
+
+Todas as imagens dos Pokémon utilizadas neste projeto são provenientes da  
+**PokéAPI — PokeAPI/sprites**  
+Repositório oficial: https://github.com/PokeAPI/sprites
+
+A PokéAPI distribui os sprites sob **licença MIT**, permitindo uso em projetos educacionais, pessoais e de código aberto.
+
+Agradecimentos à incrível equipe da PokéAPI por disponibilizar esse material!
+
 ## A jornada continua...
