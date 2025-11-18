@@ -3,6 +3,8 @@ Bem-vindo ao repositório "PokéAnálise", onde exploramos os dados dos 151 pok�
 
 ## É perigoso ir sozinho. Leve dados.
 
+Este projeto foi desenvolvido utilizando Python, com bibliotecas como Pandas para manipulação de dados e Matplotlib/Seaborn para visualização. Os dados foram obtidos da PokéAPI, uma fonte confiável e abrangente de informações sobre pokémons.
+
 ## 🎨 Créditos das Imagens
 
 Todas as imagens dos Pokémon utilizadas neste projeto são provenientes da  
@@ -14,3 +16,7 @@ A PokéAPI distribui os sprites sob **licença MIT**, permitindo uso em projetos
 Agradecimentos à incrível equipe da PokéAPI por disponibilizar esse material!
 
 ## A jornada continua...
+
+Fique atento para futuras análises e descobertas no mundo dos pokémons!
+Ainda há muito o que explorar e aprender sobre essas criaturas fascinantes!
+Sinta-se à vontade para contribuir com o projeto, sugerir novas análises ou compartilhar suas próprias descobertas!
