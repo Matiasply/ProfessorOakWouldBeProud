@@ -5,6 +5,21 @@ Bem-vindo ao repositório "PokéAnálise", onde exploramos os dados dos 151 pok�
 
 Este projeto foi desenvolvido utilizando Python, com bibliotecas como Pandas para manipulação de dados e Matplotlib/Seaborn para visualização. Os dados foram obtidos da PokéAPI, uma fonte confiável e abrangente de informações sobre pokémons.
 
+## Descrição das colunas do dataset
+
+- **Pokedéx**: Identificador do pokémon na National Pokédex.
+- **Nome**: Nome do pokémon.
+- **Tipo 1**: Primeiro tipo do pokémon.
+- **Tipo 2**: Segundo tipo do pokémon (pode ser vazio).
+- **Altura**: Altura do pokémon em decímetros.
+- **Peso**: Peso do pokémon em decagramas.
+- **HP**: Pontos de vida do pokémon.
+- **Ataque**: Pontos de ataque do pokémon.
+- **Defesa**: Pontos de defesa do pokémon.
+- **Ataque Especial**: Pontos de ataque especial do pokémon.
+- **Defesa Especial**: Pontos de defesa especial do pokémon.
+- **Velocidade**: Pontos de velocidade do pokémon.
+
 ## 🎨 Créditos das Imagens
 
 Todas as imagens dos Pokémon utilizadas neste projeto são provenientes da  
